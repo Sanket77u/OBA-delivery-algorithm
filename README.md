@@ -73,7 +73,6 @@ Built by [sanket77u] with 💙 and Java. Inspired by the latest transportation o
 ## Contact
 
 GitHub: [sanket77u](https://github.com/sanket77u)
-Codeforces: [sanketuphade77](https://codeforces.com/profile/sanketuphade77)
 Linkedin [sanket-uphade077](www.linkedin.com/in/sanket-uphade077)
 
 
